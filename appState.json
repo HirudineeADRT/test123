@@ -12,7 +12,7 @@
         "filePath": "test123.js",
         "cursor": {
           "lineNumber": 2,
-          "column": 5
+          "column": 14
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -20,7 +20,7 @@
           "timeout": 60,
           "memory": 128,
           "layers": [],
-          "name": "test123"
+          "name": "test123edit"
         },
         "triggers": []
       }
@@ -57,7 +57,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1586414778258
+    "lastSave": 1586415210391
   },
   "VCS_STATE": {
     "provider": "GitHub",
